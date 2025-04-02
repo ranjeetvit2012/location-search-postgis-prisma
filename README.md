@@ -216,9 +216,5 @@ Make sure to test the functions thoroughly to ensure that the queries work corre
 
 ---
 
-## **9. License**
 
-Include any licensing information here (if applicable).
-
----
 
